@@ -1,0 +1,1296 @@
+items:
+-   label: 封面
+    file: README.md
+-   label: 登场人物
+    file: character.md
+-   label: 汉化版
+-   label: 第一章　『怒涛般的第一天』（初见篇）
+    file: chapter010/README.md
+    items:
+    -   label: 序章　『开始的余温』
+        file: chapter010/00.md
+    -   label: 01　『无法使用的十元硬币』
+        file: chapter010/01.md
+    -   label: 02　『不要得意忘形，神明如是说』
+        file: chapter010/02.md
+    -   label: 03　『第一次见识到魔法』
+        file: chapter010/03.md
+    -   label: 04　『膝枕的报恩』
+        file: chapter010/04.md
+    -   label: 05　『你的名字是？』
+        file: chapter010/05.md
+    -   label: 06　『第一次的终结』
+        file: chapter010/06.md
+    -   label: 07　『无法理解的再会』
+        file: chapter010/07.md
+    -   label: 08　『苦酒的味道』
+        file: chapter010/08.md
+    -   label: 09　『王牌的打法』
+        file: chapter010/09.md
+    -   label: 10　『失言的代价』
+        file: chapter010/10.md
+    -   label: 11　『迟来的抵抗』
+        file: chapter010/11.md
+    -   label: 12　『再会的魔女』
+        file: chapter010/12.md
+    -   label: 13　『终结与开始』
+        file: chapter010/13.md
+    -   label: 14　『事不过四』
+        file: chapter010/14.md
+    -   label: 15　『被称为《剑圣》的男人』
+        file: chapter010/15.md
+    -   label: 16　『贫民窟中的交涉』
+        file: chapter010/16.md
+    -   label: 17　『赃物库中的交涉』
+        file: chapter010/17.md
+    -   label: 18　『赃物库的攻防战』
+        file: chapter010/18.md
+    -   label: 19　『精灵术士的战斗』
+        file: chapter010/19.md
+    -   label: 20　『登场角色凑齐了』
+        file: chapter010/20.md
+    -   label: 21　『剑圣的威力』
+        file: chapter010/21.md
+    -   label: 22　『从零开始的异世界生活』
+        file: chapter010/22.md
+    -   label: 幕間　『月亮都看在眼里』
+        file: chapter010/23.md
+    -   label: 后记　『篇章插图』
+        file: chapter010/99.md
+-   label: 第二章　『动荡的一周』（宅邸篇）
+    file: chapter020/README.md
+    items:
+    -   label: 序章　『赎罪的开端』
+        file: chapter020/00.md
+    -   label: 01　『陌生的天花板、无尽的走廊』
+        file: chapter020/01.md
+    -   label: 02　『禁书库管理员和双胞胎女仆』
+        file: chapter020/02.md
+    -   label: 03　『嫁不出去了』
+        file: chapter020/03.md
+    -   label: 04　『异世界的魔女』
+        file: chapter020/04.md
+    -   label: 05　『察觉到的情感』
+        file: chapter020/05.md
+    -   label: 06　『主人归来』
+        file: chapter020/06.md
+    -   label: 07　『罗兹瓦尔宅邸』
+        file: chapter020/07.md
+    -   label: 08　『关于这个国家和那个孩子』
+        file: chapter020/08.md
+    -   label: 09　『三度死亡的功绩』
+        file: chapter020/09.md
+    -   label: 10　『不道德的交涉』
+        file: chapter020/10.md
+    -   label: 11　『餐后』
+        file: chapter020/11.md
+    -   label: 12　『相性不合的两个人』
+        file: chapter020/12.md
+    -   label: 13　『不可及的约定之晨』
+        file: chapter020/13.md
+    -   label: 14　『反抗宣言』
+        file: chapter020/14.md
+    -   label: 15　『第二次失算与期待落空』
+        file: chapter020/15.md
+    -   label: 16　『在二次轮回的困惑』
+        file: chapter020/16.md
+    -   label: 17　『锁链的声音』
+        file: chapter020/17.md
+    -   label: 18　『三度轮回』
+        file: chapter020/18.md
+    -   label: 19　『发表成果』
+        file: chapter020/19.md
+    -   label: 20　『孤独的黄昏』
+        file: chapter020/20.md
+    -   label: 21　『和鬼捉迷藏』
+        file: chapter020/21.md
+    -   label: 22　『无法用言语表达』
+        file: chapter020/22.md
+    -   label: 23　『临时契约』
+        file: chapter020/23.md
+    -   label: 24　『渴望已久的清晨』
+        file: chapter020/24.md
+    -   label: 25　『难以消逝的哀嚎』
+        file: chapter020/25.md
+    -   label: 26　『第三个选择』
+        file: chapter020/26.md
+    -   label: 27　『伤痛』
+        file: chapter020/27.md
+    -   label: 28　『觉悟与告白』
+        file: chapter020/28.md
+    -   label: 29　『菜月昴的重生』
+        file: chapter020/29.md
+    -   label: 30　『菜月昴的丑态』
+        file: chapter020/30.md
+    -   label: 31　『小丑的恸哭』
+        file: chapter020/31.md
+    -   label: 32　『哭着、哭喊着、不哭了之后』
+        file: chapter020/32.md
+    -   label: 33　『见到光明与模糊之影』
+        file: chapter020/33.md
+    -   label: 34　『魔女与精灵与魔法使』
+        file: chapter020/34.md
+    -   label: 35　『购物的约定』
+        file: chapter020/35.md
+    -   label: 36　『提前拜访村庄』
+        file: chapter020/36.md
+    -   label: 37　『咒术师的真面目』
+        file: chapter020/37.md
+    -   label: 38　『勇气的含义』
+        file: chapter020/38.md
+    -   label: 39　『熬夜畅谈的约定』
+        file: chapter020/39.md
+    -   label: 40　『魔兽之牙』
+        file: chapter020/40.md
+    -   label: 41　『鬼』
+        file: chapter020/41.md
+    -   label: 42　『蒸芋头』
+        file: chapter020/42.md
+    -   label: 43　『夹缝中求生存』
+        file: chapter020/43.md
+    -   label: 44　『绝望的利用方式』
+        file: chapter020/44.md
+    -   label: 45　『余香的效果』
+        file: chapter020/45.md
+    -   label: 46　『鬼的一闪』
+        file: chapter020/46.md
+    -   label: 47　『雷姆』
+        file: chapter020/47.md
+    -   label: 48　『ALL IN』
+        file: chapter020/48.md
+    -   label: 49　『未来的故事』
+        file: chapter020/49.md
+    -   label: 幕間　『月下的密谈』
+        file: chapter020/50.md
+    -   label: 后记　『篇章插图』
+        file: chapter020/99.md
+-   label: 番外編　『Oneday』
+    file: chapter021/README.md
+    items:
+    -   label: 01　『中毒症状』
+        file: chapter021/01.md
+    -   label: 02　『第一次蛋黄酱骚动』
+        file: chapter021/02.md
+-   label: 第三章　『再次来到王都』（王选篇）
+    file: chapter030/README.md
+    items:
+    -   label: 序章　『愚蠢者的固执』
+        file: chapter030/00.md
+    -   label: 01　『安稳的早上』
+        file: chapter030/01.md
+    -   label: 02　『佣人们的茶话』
+        file: chapter030/02.md
+    -   label: 03　『王都旅行计划』
+        file: chapter030/03.md
+    -   label: 04　『旅行出发，前途叵测』
+        file: chapter030/04.md
+    -   label: 05　『当约定实现时』
+        file: chapter030/05.md
+    -   label: 06　『危险的二人』
+        file: chapter030/06.md
+    -   label: 07　『橙色的少女』
+        file: chapter030/07.md
+    -   label: 08　『赌博的结果』
+        file: chapter030/08.md
+    -   label: 09　『加護x再会x约定』
+        file: chapter030/09.md
+    -   label: 10　『汇合与告别』
+        file: chapter030/10.md
+    -   label: 11　『三个臭皮匠胜过诸葛亮』
+        file: chapter030/11.md
+    -   label: 12　『潜入王城的结果』
+        file: chapter030/12.md
+    -   label: 13　『同郷』
+        file: chapter030/13.md
+    -   label: 14　『王选开始』
+        file: chapter030/14.md
+    -   label: 15　『关系恶劣的候选者』
+        file: chapter030/15.md
+    -   label: 16　『所信表明』
+        file: chapter030/16.md
+    -   label: 17　『傲慢的演说』
+        file: chapter030/17.md
+    -   label: 18　『強欲商人』
+        file: chapter030/18.md
+    -   label: 19　『银发魔女的愿望』
+        file: chapter030/19.md
+    -   label: 20　『自称骑士的菜月·昴』
+        file: chapter030/20.md
+    -   label: 21　『肤浅的代价和老人的意志』
+        file: chapter030/21.md
+    -   label: 22　『最后的主从』
+        file: chapter030/22.md
+    -   label: 23　『自称騎士与騎士』
+        file: chapter030/23.md
+    -   label: 24　『决斗的始末』
+        file: chapter030/24.md
+    -   label: 25　『孤身一人』
+        file: chapter030/25.md
+    -   label: 幕間　『骑士们的疑惑』
+        file: chapter030/85.md
+    -   label: 26　『腐败的精神』
+        file: chapter030/26.md
+    -   label: 27　『市井之声』
+        file: chapter030/27.md
+    -   label: 28　『没用的上进心』
+        file: chapter030/28.md
+    -   label: 29　『动荡的局势』
+        file: chapter030/29.md
+    -   label: 30　『雷姆的决意』
+        file: chapter030/30.md
+    -   label: 31　『交渉x商談x断絶』
+        file: chapter030/31.md
+    -   label: 32　『名为绝望的病』
+        file: chapter030/32.md
+    -   label: 33　『白色的终焉』
+        file: chapter030/33.md
+    -   label: 34　『疯狂的外侧』
+        file: chapter030/34.md
+    -   label: 35　『帰路』
+        file: chapter030/35.md
+    -   label: 36　『血腥咆哮』
+        file: chapter030/36.md
+    -   label: 37　『怠惰』
+        file: chapter030/37.md
+    -   label: 38　『回归现实』
+        file: chapter030/38.md
+    -   label: 39　『奇跡』
+        file: chapter030/39.md
+    -   label: 40　『杀机的里侧』
+        file: chapter030/40.md
+    -   label: 41　『幼稚的交涉』
+        file: chapter030/41.md
+    -   label: 42　『決裂之夜』
+        file: chapter030/42.md
+    -   label: 43　『猪的欲望』
+        file: chapter030/43.md
+    -   label: 44　『再次从王都出发』
+        file: chapter030/44.md
+    -   label: 45　『遭遇』
+        file: chapter030/45.md
+    -   label: 46　『白鯨之顎』
+        file: chapter030/46.md
+    -   label: 47　『丑态的尽头』
+        file: chapter030/47.md
+    -   label: 48　『不允许化为话语』
+        file: chapter030/48.md
+    -   label: 49　『終焉之兽』
+        file: chapter030/49.md
+    -   label: 50　『罪孽所在』
+        file: chapter030/50.md
+    -   label: 51　『悲愿』
+        file: chapter030/51.md
+    -   label: 52　『从零开始』
+        file: chapter030/52.md
+    -   label: 53　『被配给的手牌』
+        file: chapter030/53.md
+    -   label: 54　『同盟交渉』
+        file: chapter030/54.md
+    -   label: 55　『前哨』
+        file: chapter030/55.md
+    -   label: 56　『决战前夜』
+        file: chapter030/56.md
+    -   label: 57　『白鯨攻略戦』
+        file: chapter030/57.md
+    -   label: 58　『雾的威胁』
+        file: chapter030/58.md
+    -   label: 59　『反抗绝望的赌博』
+        file: chapter030/59.md
+    -   label: 60　『维鲁海鲁姆·梵·阿斯特雷亚』
+        file: chapter030/60.md
+    -   label: 61　『前往梅瑟斯领地的道路』
+        file: chapter030/61.md
+    -   label: 62　『過去与未来一起清算』
+        file: chapter030/62.md
+    -   label: 63　『怠惰一閃』
+        file: chapter030/63.md
+    -   label: 64　『魔女教狩猎的始末』
+        file: chapter030/64.md
+    -   label: 65　『怠惰的后果』
+        file: chapter030/65.md
+    -   label: 66　『——战斗吧！』
+        file: chapter030/66.md
+    -   label: 67　『精灵骑士』
+        file: chapter030/67.md
+    -   label: 68　『怠惰捕获战线』
+        file: chapter030/68.md
+    -   label: 69　『时光的碎片』
+        file: chapter030/69.md
+    -   label: 70　『回归的意义』
+        file: chapter030/70.md
+    -   label: 71　『禁书库的少女』
+        file: chapter030/71.md
+    -   label: 72　『不理解和理解』
+        file: chapter030/72.md
+    -   label: 73　『恶毒的怠惰』
+        file: chapter030/73.md
+    -   label: 74　『履行的契约』
+        file: chapter030/74.md
+    -   label: 75　『再会x推迟x逆转的契机』
+        file: chapter030/75.md
+    -   label: 76　『幕后舞台×阴谋诡计×拉钩约定』
+        file: chapter030/76.md
+    -   label: 77　『俘虏交涉与再会』
+        file: chapter030/77.md
+    -   label: 78　『狂人与狂语』
+        file: chapter030/78.md
+    -   label: 79　『自称的骑士与最优的骑士』
+        file: chapter030/79.md
+    -   label: 80　『怠惰的终焉』 ★
+        file: chapter030/80.md
+    -   label: 81　『追跡』
+        file: chapter030/81.md
+    -   label: 82　『名为爱的福音』
+        file: chapter030/82.md
+    -   label: 83　『答案』
+        file: chapter030/83.md
+    -   label: 84　『只是那样而已的故事』
+        file: chapter030/84.md
+    -   label: 幕間　『龙车里的一幕』
+        file: chapter030/86.md
+    -   label: 断章　『菜月・雷姆』
+        file: chapter030/87.md
+    -   label: 幕間　『我开动了』
+        file: chapter030/88.md
+    -   label: 幕間　『各自的誓言』
+        file: chapter030/89.md
+    -   label: 番外編　『王様』
+        file: chapter030/90.md
+    -   label: 后记　『篇章插图』
+        file: chapter030/99.md
+-   label: 第四章　『永远的契约』（圣域篇）
+    file: chapter040/README.md
+    items:
+    -   label: 序章　『坟墓』
+        file: chapter040/00.md
+    -   label: 01　『可以回去的地方』
+        file: chapter040/01.md
+    -   label: 02　『咒骂与感谢』
+        file: chapter040/02.md
+    -   label: 03　『与重逢擦肩而过』
+        file: chapter040/03.md
+    -   label: 04　『下一个地方』
+        file: chapter040/04.md
+    -   label: 05　『艾米莉娅阵营』
+        file: chapter040/05.md
+    -   label: 06　『去圣域的路上』
+        file: chapter040/06.md
+    -   label: 07　『实验场』
+        file: chapter040/07.md
+    -   label: 08　『等待已久的再会』
+        file: chapter040/08.md
+    -   label: 09　『墓所』
+        file: chapter040/09.md
+    -   label: 10　『求知欲的化身』
+        file: chapter040/10.md
+    -   label: 11　『傲慢x怠惰x憤怒』
+        file: chapter040/11.md
+    -   label: 12　『茶会礼物』
+        file: chapter040/12.md
+    -   label: 13　『罗兹瓦尔的思念』
+        file: chapter040/13.md
+    -   label: 14　『回答疑问』
+        file: chapter040/14.md
+    -   label: 15　『资格与试炼』
+        file: chapter040/15.md
+    -   label: 16　『菜月家的早晨』
+        file: chapter040/16.md
+    -   label: 17　『恋爱话题』
+        file: chapter040/17.md
+    -   label: 18　『父子』
+        file: chapter040/18.md
+    -   label: 19　『作业』
+        file: chapter040/19.md
+    -   label: 20　『试炼結果』
+        file: chapter040/20.md
+    -   label: 21　『重新下定决心』
+        file: chapter040/21.md
+    -   label: 22　『软弱』
+        file: chapter040/22.md
+    -   label: 23　『迈出的一步』
+        file: chapter040/23.md
+    -   label: 24　『等待』
+        file: chapter040/24.md
+    -   label: 25　『冰之森』
+        file: chapter040/25.md
+    -   label: 26　『停滞不前』
+        file: chapter040/26.md
+    -   label: 27　『低语』
+        file: chapter040/27.md
+    -   label: 28　『茶会对话』
+        file: chapter040/28.md
+    -   label: 29　『杂食系男子』
+        file: chapter040/29.md
+    -   label: 30　『归途中的违和感』
+        file: chapter040/30.md
+    -   label: 31　『妹抖·妹抖·妹抖』
+        file: chapter040/31.md
+    -   label: 32　『1/4』
+        file: chapter040/32.md
+    -   label: 33　『风吹的密道』
+        file: chapter040/33.md
+    -   label: 34　『终结的世界』
+        file: chapter040/34.md
+    -   label: 35　『少女的福音』
+        file: chapter040/35.md
+    -   label: 36　『在无法理解的尽头』
+        file: chapter040/36.md
+    -   label: 37　『首次摸索』
+        file: chapter040/37.md
+    -   label: 38　『芋虫』
+        file: chapter040/38.md
+    -   label: 39　『友人』
+        file: chapter040/39.md
+    -   label: 40　『協力者』
+        file: chapter040/40.md
+    -   label: 41　『虎』
+        file: chapter040/41.md
+    -   label: 42　『生命的价值』
+        file: chapter040/42.md
+    -   label: 43　『然后谁也——』
+        file: chapter040/43.md
+    -   label: 44　『禁忌』
+        file: chapter040/44.md
+    -   label: 45　『茶会的条件』
+        file: chapter040/45.md
+    -   label: 46　『蝗害』
+        file: chapter040/46.md
+    -   label: 47　『相性不好的对手』
+        file: chapter040/47.md
+    -   label: 48　『茶会的代价』
+        file: chapter040/48.md
+    -   label: 49　『LOVELOVELOVELOVELOVELOVEYOUー』
+        file: chapter040/49.md
+    -   label: 50　『远处处的吼声』
+        file: chapter040/50.md
+    -   label: 51　『LOVELOVELOVE……LOVELOVELOVEME–』
+        file: chapter040/51.md
+    -   label: 52　『细微的变化』
+        file: chapter040/52.md
+    -   label: 53　『重叠的疑问』
+        file: chapter040/53.md
+    -   label: 54　『地狱什么的我早已知晓』
+        file: chapter040/54.md
+    -   label: 55　『水晶中的少女』
+        file: chapter040/55.md
+    -   label: 56　『圣域的存在理由』
+        file: chapter040/56.md
+    -   label: 57　『不老不死的实验』
+        file: chapter040/57.md
+    -   label: 58　『婆婆』
+        file: chapter040/58.md
+    -   label: 59　『甜蜜的烤点心与并不甜蜜的话语』
+        file: chapter040/59.md
+    -   label: 60　『结束终焉的话语』
+        file: chapter040/60.md
+    -   label: 61　『跨越四百年的悲鸣』
+        file: chapter040/61.md
+    -   label: 62　『罗兹瓦尔宅邸的惨剧』
+        file: chapter040/62.md
+    -   label: 63　『死之共感』
+        file: chapter040/63.md
+    -   label: 64　『支离破碎的世界』
+        file: chapter040/64.md
+    -   label: 65　『雪中的热情』
+        file: chapter040/65.md
+    -   label: 66　『赤色的雪景』
+        file: chapter040/66.md
+    -   label: 67　『魔人』
+        file: chapter040/67.md
+    -   label: 68　『死的味道』
+        file: chapter040/68.md
+    -   label: 69　『骗子』
+        file: chapter040/69.md
+    -   label: 70　『地狱的更深处』
+        file: chapter040/70.md
+    -   label: 71　『Ending List』
+        file: chapter040/71.md
+    -   label: 幕間　『茶会』
+        file: chapter040/131.md
+    -   label: 72　『BAD END 1、5、11』
+        file: chapter040/72.md
+    -   label: 73　『软弱的所在之处』
+        file: chapter040/73.md
+    -   label: 74　『魔女的企图与提案』
+        file: chapter040/74.md
+    -   label: 75　『那个人』
+        file: chapter040/75.md
+    -   label: 76　『≠莎缇拉』
+        file: chapter040/76.md
+    -   label: 77　『孤身一人的……』
+        file: chapter040/77.md
+    -   label: 78　『欲哭的声音』
+        file: chapter040/78.md
+    -   label: 79　『梦的终结』
+        file: chapter040/79.md
+    -   label: 幕間　『宾客散去』
+        file: chapter040/132.md
+    -   label: 80　『粗糙的舌头』
+        file: chapter040/80.md
+    -   label: 81　『光明』
+        file: chapter040/81.md
+    -   label: 82　『尔虞我诈』
+        file: chapter040/82.md
+    -   label: 83　『相互坦白』
+        file: chapter040/83.md
+    -   label: 84　『否定×否定×否定』
+        file: chapter040/84.md
+    -   label: 85　『用话语、用心意、用拳头』
+        file: chapter040/85.md
+    -   label: 86　『毫无胜算』
+        file: chapter040/86.md
+    -   label: 87　『鬼在外，两个小丑在内』
+        file: chapter040/87.md
+    -   label: 88　『卡菲尔的思绪』
+        file: chapter040/88.md
+    -   label: 89　『雪之记忆』
+        file: chapter040/89.md
+    -   label: 90　『——对不起』
+        file: chapter040/90.md
+    -   label: 91　『虚假的长眠』
+        file: chapter040/91.md
+    -   label: 92　『谎言』
+        file: chapter040/92.md
+    -   label: 93　『相互的提案』
+        file: chapter040/93.md
+    -   label: 94　『遗弃』
+        file: chapter040/94.md
+    -   label: 95　『西格玛（∑）』
+        file: chapter040/95.md
+    -   label: 96　『双唇红染』
+        file: chapter040/96.md
+    -   label: 97　『黎明之前』
+        file: chapter040/97.md
+    -   label: 98　『余温渐消的床铺』
+        file: chapter040/98.md
+    -   label: 99　『封闭之所，孤身一人』
+        file: chapter040/99.md
+    -   label: 100　『埋藏于尘埃中的回忆』
+        file: chapter040/100.md
+    -   label: 101　『θ其一』
+        file: chapter040/101.md
+    -   label: 102　『记忆中没有的回忆』
+        file: chapter040/102.md
+    -   label: 103　『圣域的起始与崩坏的开端』
+        file: chapter040/103.md
+    -   label: 104　『θ其二』
+        file: chapter040/104.md
+    -   label: 105　『旅行商人的陷阱』
+        file: chapter040/105.md
+    -   label: 106　『奥托·斯温』
+        file: chapter040/106.md
+    -   label: 107　『最后的陷阱』
+        file: chapter040/107.md
+    -   label: 108　『只有时机好的男人』
+        file: chapter040/108.md
+    -   label: 109　『错误的选择』
+        file: chapter040/109.md
+    -   label: 110　『相信的理由』
+        file: chapter040/110.md
+    -   label: 111　『卡菲尔的结界』
+        file: chapter040/111.md
+    -   label: 112　『拒绝软弱的本能』
+        file: chapter040/112.md
+    -   label: 113　『奎因之石靠一个人是没法搬动的』
+        file: chapter040/113.md
+    -   label: 114　『将谎言化为祈愿』
+        file: chapter040/114.md
+    -   label: 115　『青梅竹马的女人面前抬不起头』
+        file: chapter040/115.md
+    -   label: 116　『祖母、母亲、姐姐、孙子、儿子、弟弟』
+        file: chapter040/116.md
+    -   label: 117　『情信』
+        file: chapter040/117.md
+    -   label: 118　『平家星笑的日子』
+        file: chapter040/118.md
+    -   label: 119　『现在也，过去也，不变的爱』
+        file: chapter040/119.md
+    -   label: 120　『艾利奥尔大森林的永久冻土』
+        file: chapter040/120.md
+    -   label: 121　『请帮帮他』
+        file: chapter040/121.md
+    -   label: 122　『咆哮的再会』
+        file: chapter040/122.md
+    -   label: 123-A　『猎肠者VS圣域之盾』
+        file: chapter040/123-a.md
+    -   label: 123-B　『反映在水面上的幸福』
+        file: chapter040/123-b.md
+    -   label: 124-A　『给我听好，笨蛋』
+        file: chapter040/124-a.md
+    -   label: 125-A　『罗兹沃尔宅邸攻防战』
+        file: chapter040/125-a.md
+    -   label: 126-A　『漆黑森林之王，基尔提拉乌的袭击！』
+        file: chapter040/126-a.md
+    -   label: 127-A　『罗兹瓦尔府的最后一日』
+        file: chapter040/127-a.md
+    -   label: 128　『最喜欢血肉和内脏』
+        file: chapter040/128.md
+    -   label: 129　『――选择我』
+        file: chapter040/129.md
+    -   label: 124-B　『映于镜中的你』
+        file: chapter040/124-b.md
+    -   label: 125-B　『从复仇开始』
+        file: chapter040/125-b.md
+    -   label: 126-B　『下次一定要开茶会』
+        file: chapter040/126-b.md
+    -   label: 127-B　『已经够了什么的』
+        file: chapter040/127-b.md
+    -   label: 130　『雪的颜貌』
+        file: chapter040/130.md
+    -   label: 幕間　『各自的妥协』
+        file: chapter040/133.md
+    -   label: 幕間　『艾米莉娅阵营・魔人・精灵・精灵使』
+        file: chapter040/134.md
+    -   label: 蛇足　『再临』
+        file: chapter040/135.md
+    -   label: 后记　『篇章插图』
+        file: chapter040/199.md
+-   label: 番外編　『OnedayⅡ』
+    file: chapter041/README.md
+    items:
+    -   label: 01　『姐妹的关系』
+        file: chapter041/01.md
+    -   label: 02　『年轻的灵魂和守护者』
+        file: chapter041/02.md
+    -   label: 03　『美少女x美幼女x美老女』
+        file: chapter041/03.md
+    -   label: 04　『诞生、艾米莉娅阵营内政官殿下』
+        file: chapter041/04.md
+    -   label: 05　『安妮罗洁的陷阱与姐弟关系』
+        file: chapter041/05.md
+    -   label: 06　『另一件未竟之事』
+        file: chapter041/06.md
+    -   label: 07　『月下，乱舞』
+        file: chapter041/07.md
+    -   label: 08　『交错的宿愿』
+        file: chapter041/08.md
+    -   label: 09　『王选前日谈』
+        file: chapter041/09.md
+-   label: 第五章　『刻画历史的群星』（水门都市篇）
+    file: chapter050/README.md
+    items:
+    -   label: 01　『事情的起头总是由到访者开始』
+        file: chapter050/01.md
+    -   label: 02　『虚伪的血统』
+        file: chapter050/02.md
+    -   label: 03　『各自的见解』
+        file: chapter050/03.md
+    -   label: 04　『旅行途中』
+        file: chapter050/04.md
+    -   label: 05　『水门都市』
+        file: chapter050/05.md
+    -   label: 06　『两位精灵骑士，强欲商人和无欲天使』
+        file: chapter050/06.md
+    -   label: 07　『向那罪孽深重的男人起航』
+        file: chapter050/07.md
+    -   label: 08　『晕船的同伴』
+        file: chapter050/08.md
+    -   label: 09　『歌姬的价值』
+        file: chapter050/09.md
+    -   label: 10　『水之都市的归途』
+        file: chapter050/10.md
+    -   label: 11　『意外的再会，本该到来的再会，意想不到的再会』
+        file: chapter050/11.md
+    -   label: 12　『拜垫客厅里非常的气氛』
+        file: chapter050/12.md
+    -   label: 13　『祥和的晚餐』
+        file: chapter050/13.md
+    -   label: 14　『月下的剑鬼』
+        file: chapter050/14.md
+    -   label: 15　『吵闹的寂静』
+        file: chapter050/15.md
+    -   label: 16　『不速之客』
+        file: chapter050/16.md
+    -   label: 17　『穿惯了的铠甲』
+        file: chapter050/17.md
+    -   label: 18　『歌舞的间歇之时』
+        file: chapter050/18.md
+    -   label: 19　『剧场型恶意』
+        file: chapter050/19.md
+    -   label: 20　『共相高涨的情绪』
+        file: chapter050/20.md
+    -   label: 21　『最佳的解法』
+        file: chapter050/21.md
+    -   label: 22　『草率的解法』
+        file: chapter050/22.md
+    -   label: 23　『被扰乱的事态』
+        file: chapter050/23.md
+    -   label: 24　『冰炎的结局』
+        file: chapter050/24.md
+    -   label: 25　『狮子座剧场』
+        file: chapter050/25.md
+    -   label: 26　『爱的矛头』
+        file: chapter050/26.md
+    -   label: 27　『噪音』
+        file: chapter050/27.md
+    -   label: 28　『满身疮痍的作战会议』
+        file: chapter050/28.md
+    -   label: 29　『华丽之虎』
+        file: chapter050/29.md
+    -   label: 30　『月下的虎与猫』
+        file: chapter050/30.md
+    -   label: 31　『犯错的代价』
+        file: chapter050/31.md
+    -   label: 32　『都市厅舍攻略会议』
+        file: chapter050/32.md
+    -   label: 33　『都市厅舍攻略战』
+        file: chapter050/33.md
+    -   label: 34　『剑斗与乱战』
+        file: chapter050/34.md
+    -   label: 35　『埋伏与奇袭』
+        file: chapter050/35.md
+    -   label: 36　『爱的起点与终点』
+        file: chapter050/36.md
+    -   label: 37　『重整旗鼓』
+        file: chapter050/37.md
+    -   label: 38　『魔女教的要求』
+        file: chapter050/38.md
+    -   label: 39　『骑士作风与迟来的男子』
+        file: chapter050/39.md
+    -   label: 40　『愤怒的侵蚀』
+        file: chapter050/40.md
+    -   label: 41　『英雄幻想』
+        file: chapter050/41.md
+    -   label: 42　『最为新生的英雄与最为古老的英雄』
+        file: chapter050/42.md
+    -   label: 43　『汇合前的情况』
+        file: chapter050/43.md
+    -   label: 44　『开诚布公吧』
+        file: chapter050/44.md
+    -   label: 45　『无法逃离的束缚』
+        file: chapter050/45.md
+    -   label: 46　『心境』
+        file: chapter050/46.md
+    -   label: 47　『都市夺还攻略前哨』
+        file: chapter050/47.md
+    -   label: 48　『真正喜欢的人』
+        file: chapter050/48.md
+    -   label: 49　『强欲攻略战开幕』
+        file: chapter050/49.md
+    -   label: 50　『爱之枷锁』
+        file: chapter050/50.md
+    -   label: 51　『愚弄着的恶意』
+        file: chapter050/51.md
+    -   label: 52　『星与大罪司教』
+        file: chapter050/52.md
+    -   label: 53　『混战都市』
+        file: chapter050/53.md
+    -   label: 54　『非战斗人员的战斗力』
+        file: chapter050/54.md
+    -   label: 55　『斗神的挑战者』
+        file: chapter050/55.md
+    -   label: 56　『签署断绝关系声明』
+        file: chapter050/56.md
+    -   label: 57　『心脏的所在』
+        file: chapter050/57.md
+    -   label: 58　『——我相信』
+        file: chapter050/58.md
+    -   label: 59　『雷格鲁斯·柯尼亚斯』
+        file: chapter050/59.md
+    -   label: 60　『一波方平，一波又起』
+        file: chapter050/60.md
+    -   label: 61　『领域的被害者』
+        file: chapter050/61.md
+    -   label: 62　『战士的称赞』
+        file: chapter050/62.md
+    -   label: 63　『莉莉安娜·马斯可芮德的情热』
+        file: chapter050/63.md
+    -   label: 64　『莉莉安娜·马斯可芮德的忧郁』
+        file: chapter050/64.md
+    -   label: 65　『莉莉安娜·马斯可芮德的后悔』
+        file: chapter050/65.md
+    -   label: 66　『莉莉安娜·马斯可芮德的舞台』
+        file: chapter050/66.md
+    -   label: 67　『莉莉安娜·马斯可芮德』
+        file: chapter050/67.md
+    -   label: 68　『吞食名字的美食家』
+        file: chapter050/68.md
+    -   label: 69　『丑恶的晚餐会』
+        file: chapter050/69.md
+    -   label: 70　『喰』
+        file: chapter050/70.md
+    -   label: 71　『剑鬼VS先代剑圣』
+        file: chapter050/71.md
+    -   label: 72　『剑圣VS前代剑圣』
+        file: chapter050/72.md
+    -   label: 73　『特蕾西亚・范・阿斯特雷亚』
+        file: chapter050/73.md
+    -   label: 74　『普利斯特拉保卫战战果1』
+        file: chapter050/74.md
+    -   label: 75　『普利斯特拉保卫战战果2』
+        file: chapter050/75.md
+    -   label: 76　『普利斯提拉攻防战成果3』
+        file: chapter050/76.md
+    -   label: 77　『无名的骑士』
+        file: chapter050/77.md
+    -   label: 78　『水门都市的余波』
+        file: chapter050/78.md
+    -   label: 79　『贤者的监视塔』
+        file: chapter050/79.md
+    -   label: 80　『水面上留下波纹』
+        file: chapter050/80.md
+    -   label: 81　『充满贪婪的那些人』
+        file: chapter050/81.md
+    -   label: 幕間　『结对的条件』
+        file: chapter050/82.md
+    -   label: 幕間　『未完成的大器』
+        file: chapter050/83.md
+    -   label: 幕間　『温暖的名字』
+        file: chapter050/84.md
+    -   label: 后记　『篇章插图』
+        file: chapter050/99.md
+-   label: 第六章　『记忆的回廊』（贤者之塔篇）
+    file: chapter060/README.md
+    items:
+    -   label: 序章　『贤者监视塔』
+        file: chapter060/00.md
+    -   label: 01　『龙车归途路』
+        file: chapter060/01.md
+    -   label: 02　『他相应的款待』
+        file: chapter060/02.md
+    -   label: 03　『少女的牢笼』
+        file: chapter060/03.md
+    -   label: 04　『把你带出的理由』
+        file: chapter060/04.md
+    -   label: 05　『各自的不安』
+        file: chapter060/05.md
+    -   label: 06　『尤里乌斯的身世』
+        file: chapter060/06.md
+    -   label: 07　『以沙海为目标』
+        file: chapter060/07.md
+    -   label: 08　『沙丘的洗礼』
+        file: chapter060/08.md
+    -   label: 09　『沙时间中的跋涉』
+        file: chapter060/09.md
+    -   label: 10　『宛如闪光』
+        file: chapter060/10.md
+    -   label: 11　『听见眼泪的声音』
+        file: chapter060/11.md
+    -   label: 12　『监视塔的洗礼』
+        file: chapter060/12.md
+    -   label: 13　『沙海的嘲笑』
+        file: chapter060/13.md
+    -   label: 14　『沙海之上的信赖』
+        file: chapter060/14.md
+    -   label: 15　『沙子上凋零着』
+        file: chapter060/15.md
+    -   label: 16　『咀嚼的味道』
+        file: chapter060/16.md
+    -   label: 17　『沙海之王』
+        file: chapter060/17.md
+    -   label: 18　『砂塔的看守者』
+        file: chapter060/18.md
+    -   label: 19　『贤者的行踪』
+        file: chapter060/19.md
+    -   label: 20　『夏乌拉≠贤者=弗琉盖尔』
+        file: chapter060/20.md
+    -   label: 21　『巨石板的挑战书』
+        file: chapter060/21.md
+    -   label: 22　『白色星空的群星』
+        file: chapter060/22.md
+    -   label: 23　『三层塔基忒大图书馆』
+        file: chapter060/23.md
+    -   label: 24　『性格扭曲的考官』
+        file: chapter060/24.md
+    -   label: 25　『二层厄勒克特拉盼望之人』
+        file: chapter060/25.md
+    -   label: 26　『挥棒的男人』
+        file: chapter060/26.md
+    -   label: 27　『厄勒克特拉的高墙』
+        file: chapter060/27.md
+    -   label: 28　『由里乌斯·尤克历乌斯』
+        file: chapter060/28.md
+    -   label: 29　『失败者』
+        file: chapter060/29.md
+    -   label: 30　『二层攻略反省会』
+        file: chapter060/30.md
+    -   label: 31　『塔内的共同生活』
+        file: chapter060/31.md
+    -   label: 32　『何者』
+        file: chapter060/32.md
+    -   label: 33　『■■■・■■■』
+        file: chapter060/33.md
+    -   label: 34　『出了便利店后，那是一个不可思议的世界』
+        file: chapter060/34.md
+    -   label: 35　『如履薄冰的关系』
+        file: chapter060/35.md
+    -   label: 36　『安心感的安置处』
+        file: chapter060/36.md
+    -   label: 37　『纸老虎所见之梦』
+        file: chapter060/37.md
+    -   label: 38　『NISHISHEI』
+        file: chapter060/38.md
+    -   label: 39　『残骸』
+        file: chapter060/39.md
+    -   label: 40　『被星空抛弃』
+        file: chapter060/40.md
+    -   label: 41　『安心的臭味』
+        file: chapter060/41.md
+    -   label: 42　『死者们的塔』
+        file: chapter060/42.md
+    -   label: 43　『生者们的塔』
+        file: chapter060/43.md
+    -   label: 44　『血之勋章』
+        file: chapter060/44.md
+    -   label: 45　『罪人的拥抱』
+        file: chapter060/45.md
+    -   label: 46　『梅丽·波特鲁特』
+        file: chapter060/46.md
+    -   label: 47　『我不会原谅你』
+        file: chapter060/47.md
+    -   label: 48　『——杀人，会成为习惯』
+        file: chapter060/48.md
+    -   label: 49　『致给废柴的你』
+        file: chapter060/49.md
+    -   label: 50　『——正因废柴才恰恰是你』
+        file: chapter060/50.md
+    -   label: 51　『生者们的塔 PART2』
+        file: chapter060/51.md
+    -   label: 52　『神啊，请宽恕我吧』
+        file: chapter060/52.md
+    -   label: 53　『——传来了、声音』
+        file: chapter060/53.md
+    -   label: 54　『Re：从零开始的异世界生活』
+        file: chapter060/54.md
+    -   label: 55　『等待雪融的你』
+        file: chapter060/55.md
+    -   label: 56　『今后之事』
+        file: chapter060/56.md
+    -   label: 57　『暂且放下吧』
+        file: chapter060/57.md
+    -   label: 58　『彼归彼，此归此』
+        file: chapter060/58.md
+    -   label: 59　『在白色的世界里被嘲笑』
+        file: chapter060/59.md
+    -   label: 60　『一人份的陽光』
+        file: chapter060/60.md
+    -   label: 61　『——给我站起来』
+        file: chapter060/61.md
+    -   label: 62　『崩坏的地响』
+        file: chapter060/62.md
+    -   label: 63　『五重障碍』
+        file: chapter060/63.md
+    -   label: 64　『第二个障碍』
+        file: chapter060/64.md
+    -   label: 65　『第二个、第五个、然后——』
+        file: chapter060/65.md
+    -   label: 66　『迈向终焉的第二次机会』
+        file: chapter060/66.md
+    -   label: 67　『小小的王』
+        file: chapter060/67.md
+    -   label: 68　『天蝎座的女子』
+        file: chapter060/68.md
+    -   label: 69　『蛮不讲理的剑之铁锤』
+        file: chapter060/69.md
+    -   label: 70　『专情的星星』
+        file: chapter060/70.md
+    -   label: 71　『Count·One』
+        file: chapter060/71.md
+    -   label: 72　『■■・■』
+        file: chapter060/72.md
+    -   label: 73　『 『ナツキ・スバル』 』
+        file: chapter060/73.md
+    -   label: 74　『ナツキ・スバル』
+        file: chapter060/74.md
+    -   label: 75　『路伊·阿尔尼普』
+        file: chapter060/75.md
+    -   label: 76　『名为自己的地狱』
+        file: chapter060/76.md
+    -   label: 77　『反击的狼烟』
+        file: chapter060/77.md
+    -   label: 78　『四角』
+        file: chapter060/78.md
+    -   label: 79　『READY STEADY GO』
+        file: chapter060/79.md
+    -   label: 80　『精神之死』
+        file: chapter060/80.md
+    -   label: 81　『――我第一次遇见你』
+        file: chapter060/81.md
+    -   label: 82　『带枷锁的战斗』
+        file: chapter060/82.md
+    -   label: 83　『拉姆』
+        file: chapter060/83.md
+    -   label: 84　『嘿咻！　哎呀！』
+        file: chapter060/84.md
+    -   label: 85　『GOOD LOSER』
+        file: chapter060/85.md
+    -   label: 86　『昨日之谈』
+        file: chapter060/86.md
+    -   label: 87　『遥远的目光』
+        file: chapter060/87.md
+    -   label: 88　『――询志』
+        file: chapter060/88.md
+    -   label: 89　『夏乌拉』
+        file: chapter060/89.md
+    -   label: 90　『英雄』
+        file: chapter060/90.md
+    -   label: 后记　『篇章插图』
+        file: chapter060/99.md
+-   label: 第七章　『狼之国』
+    file: chapter070/README.md
+    items:
+    -   label: 01　『洗礼』
+        file: chapter070/01.md
+    -   label: 02　『Animal Tracking』
+        file: chapter070/02.md
+    -   label: 03　『VS 雷姆』
+        file: chapter070/03.md
+    -   label: 04　『有勇气的抉择』
+        file: chapter070/04.md
+    -   label: 05　『男人很艰苦』
+        file: chapter070/05.md
+    -   label: 06　『遥远的南方之地』
+        file: chapter070/06.md
+    -   label: 07　『男人确实辛苦』
+        file: chapter070/07.md
+    -   label: 08　『名字』
+        file: chapter070/08.md
+    -   label: 09　『帝国的作风』
+        file: chapter070/09.md
+    -   label: 10　『修德拉克之民』
+        file: chapter070/10.md
+    -   label: 11　『血命之仪』
+        file: chapter070/11.md
+    -   label: 12　『佛拉基亚帝国』
+        file: chapter070/12.md
+    -   label: 13　『以非神之躯』
+        file: chapter070/13.md
+    -   label: 14　『无法弥合的价值观』
+        file: chapter070/14.md
+    -   label: 15　『想要守护之物』
+        file: chapter070/15.md
+    -   label: 16　『帝国事况』
+        file: chapter070/16.md
+    -   label: 17　『悄然接近的凶气』
+        file: chapter070/17.md
+    -   label: 18　『城塞都市古拉鲁攻防战』
+        file: chapter070/18.md
+    -   label: 19　『恼人的重逢』
+        file: chapter070/19.md
+    -   label: 20　『皇帝／商人／菜月·昴』
+        file: chapter070/20.md
+    -   label: 21　『槜克尔・奥斯曼』
+        file: chapter070/21.md
+    -   label: 22　『無血開城計画』
+        file: chapter070/22.md
+    -   label: 23　『楽士ナツミ・シュバルツ』
+        file: chapter070/23.md
+-   label: ReZeroEX （外传合辑）
+    file: chapter099/README.md
+    items:
+    -   label: IF 线合集
+        file: chapter099/if/README.md
+        items:
+        -   label: 01　『胡蝶之夢』（色欲 IF 线）
+            file: chapter099/if/01.md
+        -   label: 02　『从零开始的 Sane Louis』（强欲 IF 线）
+            file: chapter099/if/02.md
+        -   label: 03　『从零开始过错的异世界生活』（傲慢 IF 线）
+            file: chapter099/if/03.md
+        -   label: 04　『从零开始溺水的异世界生活』（拉姆 IF 线）
+            file: chapter099/if/04.md
+        -   label: 05　『从零开始的拼凑生活』（暴食 IF 线）
+            file: chapter099/if/05.md
+        -   label: 06　『从 IF 开始的异世界生活』（雷姆 IF 线）
+            file: chapter099/if/06/README.md
+            items:
+            -   label: 序章 『启程』
+                file: chapter099/if/06/00.md
+            -   label: 『两个月』
+                file: chapter099/if/06/01.md
+            -   label: 『三个月』 上篇
+                file: chapter099/if/06/02.md
+            -   label: 『三个月』 下篇
+                file: chapter099/if/06/03.md
+            -   label: 『六个月』
+                file: chapter099/if/06/04.md
+            -   label: 幕间 『忌日』
+                file: chapter099/if/06/05.md
+            -   label: 『十个月』
+                file: chapter099/if/06/06.md
+            -   label: 『产月』
+                file: chapter099/if/06/07.md
+            -   label: 终章 『纪念日』
+                file: chapter099/if/06/08.md
+        -   label: 07　『鬼的幸福』
+            file: chapter099/if/07.md
+        -   label: 08　『梦想的起始』
+            file: chapter099/if/08.md
+        -   label: 09　『菜月・利格鲁』
+            file: chapter099/if/09.md
+        -   label: 10　『fortune·fish head tree』
+            file: chapter099/if/10.md
+        -   label: 11　『Fate・节分霍洛』
+            file: chapter099/if/11.md
+        -   label: 12　『学院 Re：0！第一堂课！』
+            file: chapter099/if/12.md
+        -   label: 13　『学院 Re：0！第二堂课！』
+            file: chapter099/if/13.md
+        -   label: 14　『学院 Re：0！第三堂课！』
+            file: chapter099/if/14.md
+        -   label: 15　『学院 Re：0！第四堂课！』
+            file: chapter099/if/15.md
+    -   label: 特典合集
+        file: chapter099/special/README.md
+        items:
+        -   label: 『艾米莉娅的博客练习用日记』
+            file: chapter099/special/01.md
+        -   label: 『祝福日 Ex：雷姆的生日派对』
+            file: chapter099/special/02.md
+        -   label: 『艾米莉娅的、Very生日快乐』
+            file: chapter099/special/03.md
+        -   label: 『为交错的异世界献上联动生活 雷姆篇』
+            file: chapter099/special/04.md
+        -   label: 『为交错的异世界献上联动生活 艾米篇』
+            file: chapter099/special/05.md
+        -   label: 『祭典的喧嚣依稀可闻』
+            file: chapter099/special/06.md
+        -   label: 『从零开始的常夏生活』
+            file: chapter099/special/07.md
+        -   label: 『隐之乡的鬼姐妹，欢迎来到晚会』
+            file: chapter099/special/08.md
+        -   label: 『艾米利亚的女仆道』
+            file: chapter099/special/09.md
+        -   label: 『芙蕾德莉卡和佩特拉的、女仆小姐日子』
+            file: chapter099/special/10.md
+        -   label: 『芙蕾德莉卡和佩特拉的、女仆小姐日子Ⅱ』
+            file: chapter099/special/11.md
+        -   label: 『加菲尔和拉姆、乖僻别扭的恋爱』
+            file: chapter099/special/12.md
+        -   label: 『加菲尔和拉姆、乖僻别扭执拗的恋爱故事』
+            file: chapter099/special/13.md
+        -   label: 『艾尔莎和梅丽、裏稼業姐妹暗中活动的日报』
+            file: chapter099/special/14.md
+        -   label: 『艾力欧尔大森林组，等待雪融的季节』
+            file: chapter099/special/15.md
+        -   label: 『克雷马尔蒂森林组，一去不复返的每一天』
+            file: chapter099/special/16.md
+        -   label: 『魔女的茶会之余』
+            file: chapter099/special/17.md
+        -   label: 『艾米莉娅的王都观光记』
+            file: chapter099/special/18.md
+        -   label: 『拉姆谢绝诸位垃圾的搭讪』
+            file: chapter099/special/19.md
+        -   label: 『艾米莉娅的星空教室』
+            file: chapter099/special/20.md
+        -   label: 『艾米莉娅的初次约会』
+            file: chapter099/special/21.md
+        -   label: 『雷姆人生最美好的日子』
+            file: chapter099/special/22.md
+        -   label: 『安娜塔西亚的卡拉拉基商人道』
+            file: chapter099/special/23.md
+        -   label: 『艾米莉娅和拉姆的主从凸凹』
+            file: chapter099/special/24.md
+        -   label: 『艾米莉娅和拉姆的主从凸凸凹凹』
+            file: chapter099/special/25.md
+        -   label: 『贝亚特丽斯和雷姆的侍奉很头疼』
+            file: chapter099/special/26.md
+        -   label: 『大精灵帕克的喵喵喵晴天』
+            file: chapter099/special/27.md
+        -   label: 『Memory Snow 前日谈莉雅 Days』
+            file: chapter099/special/28.md
+        -   label: 『冰结之绊 前日谈冰结的日常』
+            file: chapter099/special/29.md
+        -   label: BD特典　『Re：从零开始的前日传 冰洁的羁绊』
+            file: chapter099/special/bd/README.md
+            items:
+            -   label: 序章　『四大与异物』
+                file: chapter099/special/bd/00.md
+            -   label: 第一章　『被你呼唤』
+                file: chapter099/special/bd/01.md
+            -   label: 第二章　『我在这里』
+                file: chapter099/special/bd/02.md
+            -   label: 第三章　『只要是为了你』
+                file: chapter099/special/bd/03.md
+            -   label: 第四章　『什么都能成』
+                file: chapter099/special/bd/04.md
+            -   label: 结尾　『幸福的意思』
+                file: chapter099/special/bd/05.md
+    -   label: 短篇集　01
+        file: chapter099/short01/README.md
+        items:
+        -   label: 『从零开始的英雄史诗』
+            file: chapter099/short01/01.md
+        -   label: 『女仆长无法放松休息的假日』
+            file: chapter099/short01/02.md
+        -   label: 『放弃尾随的日子』
+            file: chapter099/short01/03.md
+        -   label: 『爱蜜莉雅梦游仙境』
+            file: chapter099/short01/04.md
+    -   label: 短篇集　02
+        file: chapter099/short02/README.md
+        items:
+        -   label: 『对 E·M·T 献上情歌』
+            file: chapter099/short02/01.md
+        -   label: 『RAM IS ORDER』
+            file: chapter099/short02/02.md
+        -   label: 『OPERATION·KOKKURI』
+            file: chapter099/short02/03.md
+        -   label: 『图书馆员碧翠丝不甘愿的约定』
+            file: chapter099/short02/04.md
+        -   label: 『喜欢冷天气』
+            file: chapter099/short02/05.md
+        -   label: 『酒精之乱』
+            file: chapter099/short02/06.md
+    -   label: 短篇集　03
+        file: chapter099/short03/README.md
+        items:
+        -   label: 『梦想的起始』
+            file: chapter099/short03/01.md
+        -   label: 『菲利克斯·阿盖尔是男儿身女儿心』
+            file: chapter099/short03/02.md
+        -   label: 『卡尔斯腾公爵领地的战乙女』
+            file: chapter099/short03/03.md
+        -   label: 『菲利克斯·阿盖尔的束缚』
+            file: chapter099/short03/04.md
+        -   label: 『狮子王所见之梦』
+            file: chapter099/short03/05.md
+    -   label: 短篇集　04
+        file: chapter099/short04/README.md
+        items:
+        -   label: 『剑鬼恋歌　一幕』
+            file: chapter099/short04/01.md
+        -   label: 『剑鬼恋歌　二幕』
+            file: chapter099/short04/02.md
+        -   label: 『剑鬼恋歌　三幕』
+            file: chapter099/short04/03.md
+        -   label: 『剑鬼恋歌　四幕』
+            file: chapter099/short04/04.md
+        -   label: 『剑鬼恋歌　五幕』
+            file: chapter099/short04/05.md
+        -   label: 『剑鬼恋歌　六幕』
+            file: chapter099/short04/06.md
+        -   label: 『剑鬼恋歌　七幕』
+            file: chapter099/short04/07.md
+        -   label: 『剑鬼恋歌　幕间』
+            file: chapter099/short04/08.md
+        -   label: 『剑鬼恋歌　落幕』
+            file: chapter099/short04/09.md
+    -   label: 短篇集　05
+        file: chapter099/short05/README.md
+        items:
+        -   label: 『my fair bad lady』
+            file: chapter099/short05/01.md
+        -   label: 『——佩特拉所见的世界』
+            file: chapter099/short05/02.md
+        -   label: 『雷姆极为平凡而幸福的一天』
+            file: chapter099/short05/03.md
+        -   label: 『剑鬼恋谭　那之后的两人』
+            file: chapter099/short05/04.md
+        -   label: 『剑鬼恋谭　婚礼之日』
+            file: chapter099/short05/05.md
+        -   label: 『剣聖と雷光の銀華乱舞』
+            file: chapter099/short05/06.md
+        -   label: 『奥尔科斯领的赤雪』
+            file: chapter099/short05/07.md
+        -   label: 『从零开始的前日谭　隐世村的鬼姐妹Ex-祝福之日』
+            file: chapter099/short05/08.md
+        -   label: 『从零开始的王选生活　金狮子与剑圣』
+            file: chapter099/short05/09.md
+-   label: MF文库J - 原版连载
+-   label: Ｒｅ：ゼロから始める異世界生活
+    url: http://ncode.syosetu.com/n2267be/
+    target: _blank
+-   label: Copyright @ 鼠色猫/長月達平
+    url: https://mypage.syosetu.com/235132/
+    target: _blank

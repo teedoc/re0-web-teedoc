@@ -1,0 +1,89 @@
+{
+    "class": "language_zh",
+    "navbar": {
+        "title": "re0-web",
+        "logo": {
+            "alt": "re0-web logo",
+            "src": ""
+        },
+        "home_url": "/",
+        "items": [
+            {
+                "url": "/gitbook/book/markdown/ch/",
+                "label": "中文",
+                "position": "left"
+            },
+            {
+                "url": "/gitbook/book/markdown/jp/",
+                "label": "日本语",
+                "position": "left"
+            },
+            {
+                "url": "https://github.com/teedoc/re0-web-teedoc",
+                "label": "github",
+                "target": "_blank",
+                "position": "right"
+            },
+            {
+                "id": "language",
+                "label": "Language: ",
+                "position": "right",
+                "items": [
+                    {
+                        "id": "zh",
+                        "url": "/",
+                        "label": "中文"
+                    },
+                    {
+                        "id": "en",
+                        "url": "/jp/",
+                        "label": "日本语"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer":{
+        "top":[
+            {
+                "label": "链接",
+                "items": [
+                    {
+                        "label": "使用 teedoc 构建",
+                        "url": "https://teedoc.neucrack.com",
+                        "target": "_blank"
+                    },
+                    {
+                        "label": "网站地图",
+                        "url": "/sitemap.xml"
+                    }
+                ]
+            },
+            {
+                "label": "源码",
+                "items": [
+                    {
+                        "label": "本网站源文件",
+                        "url": "https://github.com/teedoc/re-web-teedoc",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        ],
+        "bottom": [
+        ]
+    },
+    "plugins": {
+        "teedoc-plugin-search":{
+            "config": {
+                "search_hint": "搜索",
+                "input_hint": "输入关键词，多关键词空格隔开",
+                "loading_hint": "正在加载，请稍候。。。",
+                "download_err_hint": "下载文件失败，请刷新重试或检查网络",
+                "other_docs_result_hint": "来自其它文档的结果",
+                "curr_doc_result_hint": "当前文档搜索结果"
+            }
+        }
+    },
+    "show_source": "编辑本文"
+}
