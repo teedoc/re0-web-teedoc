@@ -1,7 +1,7 @@
 {
     "site_name": "re0-web",
     "site_slogon": "re0",
-    "site_root_url": "/",
+    "site_root_url": "/re0-web-teedoc/",
     "site_domain": "teedoc.github.io/re0-web-teedoc",
     "site_protocol": "https",
     "config_template_dir": "config",
