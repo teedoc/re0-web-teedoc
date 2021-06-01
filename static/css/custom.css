@@ -1,13 +1,23 @@
+th {
+    background-color: #8172ab;
+    border: 2px solid #715ca8;
+}
+
+.dark th {
+    background-color: #644da7;
+    border: 2px solid #4a2e94;
+}
+
 
 #navbar h2 {
-    color: #4caf7d;
+    color: #8172ab;
 }
 
 #home_page h1 {
     width: 100%;
     text-align: center;
     font-family: sans-serif;
-    color: #4caf7d;
+    color: #8172ab;
 }
 #home_page h3 {
     width: 100%;
@@ -20,7 +30,7 @@
 }
 #home_page .big_btn a {
     padding: 2em;
-    background-color: #4caf7d;
+    background-color: #8172ab;
     font-size: 1.3em;
     border-radius: 10px;
     transition: 0.4s;
@@ -31,10 +41,10 @@
     box-shadow: 6px 4px 20px #0000002e;
 }
 .dark #home_page .big_btn a {
-    background-color: #1b5638;
+    background-color: #715ca8;
     color: #d2f9e5;
 }
 .dark #home_page .big_btn a:hover {
     box-shadow: 6px 4px 20px #000000;
-    background-color: #2a7d53;
+    background-color: #8172ab;
 }
