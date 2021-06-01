@@ -6,6 +6,9 @@ Converted from [re0-web](https://github.com/lyy289065406/re0-web/tree/033f5dfd7c
 
 To learn how to build a teedoc project from gitbook project , visit: [gitbook 转 teedoc](https://teedoc.github.io/get_started/zh/usage/gitbook2teedoc.html) or [gitbook to teedoc](https://teedoc.github.io/get_started/en/usage/gitbook2teedoc.html)
 
+
+visit: [teedoc.github.io/re0-web-teedoc](https://teedoc.github.io/re0-web-teedoc)
+
 ## build locally
 
 * Install teedoc
