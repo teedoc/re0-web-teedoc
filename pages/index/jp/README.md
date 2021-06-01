@@ -1,7 +1,8 @@
+
 ---
-title: teedoc
-keywords: teedoc, markdown, jupyter notebook, html, document generation, alternative gitbook, website generation, static website, document website generation, multiple documents
-desc: teedoc, convert markdown or jupyter notbook into html static webpage
+title: RE0：从零开始的异世界生活 （WEB版）
+keywords: teedoc, markdown, re0-web
+desc: RE0：从零开始的异世界生活 （WEB版）, 使用 teedoc 生成的 re0 小说 web 版本(在线阅读版本/在线小说)
 ---
 
 
@@ -9,12 +10,11 @@ desc: teedoc, convert markdown or jupyter notbook into html static webpage
 
 <div id="home_page">
     <div>
-        <h1><span>teedoc</span></h1>
-        <h3>Concise and comprehensive website/document generator</h3>
+        <h1><span>RE0：从零开始的异世界生活 （WEB版）</span></h1>
     </div>
     <div id="big_btn_wrapper">
         <div class="big_btn">
-            <a href="/get_started/zh/">Get started</a>
+            <a href="/gitbook/book/markdown/jp/">开始阅读</a>
         </div>
     </div>
 
