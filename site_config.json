@@ -5,7 +5,7 @@
     "site_domain": "teedoc.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/teedoc/re0-web-teedoc/blob/main",
+    "source": "https://github.com/teedoc/re0-web-teedoc/blob/master",
     "route": {
         "docs": {
             "/gitbook/book/markdown/ch/": "books/re0/ch",
