@@ -2,7 +2,7 @@
     "site_name": "re0-web",
     "site_slogon": "re0",
     "site_root_url": "/re0-web-teedoc/",
-    "site_domain": "teedoc.github.io/re0-web-teedoc",
+    "site_domain": "teedoc.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
     "source": "https://github.com/teedoc/re0-web-teedoc/blob/main",
@@ -13,7 +13,7 @@
         },
         "pages": {
             "/": "pages/index/zh",
-            "/en/": "pages/index/en"
+            "/jp/": "pages/index/jp"
         },
         "assets": {
             "/static/": "static",
