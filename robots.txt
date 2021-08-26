@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://teedoc.github.io/sitemap.xml

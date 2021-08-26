@@ -1,0 +1,24 @@
+{
+    "import": "config_zh",
+    "navbar": {
+        "items": [
+            {
+                "id": "language",
+                "label": "Language: ",
+                "position": "right",
+                "items": [
+                    {
+                        "id": "zh",
+                        "url": "/gitbook/book/markdown/ch/",
+                        "label": "中文"
+                    },
+                    {
+                        "id": "en",
+                        "url": "/gitbook/book/markdown/jp/",
+                        "label": "日本语"
+                    }
+                ]
+            }
+        ]
+    }
+}
