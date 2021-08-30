@@ -28,6 +28,8 @@
     
     <script src="/re0-web-teedoc/static/js/theme_default/pre_main.js"></script>
     
+    <link rel="stylesheet" href="/re0-web-teedoc/static/css/search/style.css" type="text/css"/>
+    
     <title>re0-web</title>
 </head>
 <body>
@@ -57,7 +59,14 @@
 </ul></li>
 </ul>
 
-                <ul class="nav_plugins"><li><a id="themes" class="light"></a></li></ul>
+                <ul class="nav_plugins"><li><a id="themes" class="light"></a></li></ul><ul class="nav_plugins"><li><a id="search"><span class="icon"></span><span class="placeholder">搜索</span>
+                            <div id="search_hints">
+                                <span id="search_input_hint">输入关键词，多关键词空格隔开</span>
+                                <span id="search_loading_hint">正在加载，请稍候。。。</span>
+                                <span id="search_download_err_hint">下载文件失败，请刷新重试或检查网络</span>
+                                <span id="search_other_docs_result_hint">来自其它文档的结果</span>
+                                <span id="search_curr_doc_result_hint">当前文档搜索结果</span>
+                            </div></a></li></ul>
             </div>
         </div>
     </div>
@@ -1088,5 +1097,7 @@
     <script src="/re0-web-teedoc/static/css/theme_default/prism.min.js"></script>
 
     <script src="/re0-web-teedoc/static/js/custom.js"></script>
+
+    <script src="/re0-web-teedoc/static/js/search/search_main.js"></script>
 
 </html>
